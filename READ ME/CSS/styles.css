@@ -1,0 +1,36 @@
+html {
+    color:rgb(0, 8, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 5vw;
+}
+
+p {
+    font-size: 3vw;
+    line-height: 1.5;
+    /* margin: 5vw; */
+    /* margin-left 5vw;
+    margin-right:none; */
+}
+
+h3 {
+    font-style: bold;
+    font-size: 5vw;
+    /* margin-left: 5vw; */
+}
+
+h1 {
+    font-style: bold;
+    font-size: 9vw;
+    /* margin-left: 5vw; */
+}
+
+h2 {
+    font-style: bold;
+    font-size: 6.5vw;
+    line-height: 1.5;
+    /* margin-left: 5vw; */
+}
+
+img {
+    /* margin-left: 5vw; */
+}
